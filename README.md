@@ -1,6 +1,6 @@
 # SAP Labs Munich Brewers
 
-![SAP Labs Munich Brewers at the Beer Definition Workshop in Munich](/blob/main/res/social1.jpeg)
+![SAP Labs Munich Brewers at the Beer Definition Workshop in Munich](res/social1.jpeg)
 
 The SAP Labs Munich Brewers are passionate about beer. What makes us special is that we don't just drink it, we define it. Together with Our partners [Hopcode](https://www.hopcode.bayern/en/) and [Rhaner Braeu](https://www.rhaner.de/), we released our first very own beer recipe, the 2022 edition. 
 
