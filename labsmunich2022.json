@@ -1,18 +1,11 @@
 {
-    "id": 192,
-    "name": "Punk IPA 2007 - 2010",
-    "tagline": "Post Modern Classic. Spiky. Tropical. Hoppy.",
-    "first_brewed": "04/2007",
-    "description": "Our flagship beer that kick started the craft beer revolution. This is James and Martin's original take on an American IPA, subverted with punchy New Zealand hops. Layered with new world hops to create an all-out riot of grapefruit, pineapple and lychee before a spiky, mouth-puckering bitter finish.",
-    "image_url": "https://images.punkapi.com/v2/192.png",
-    "abv": 6.0,
-    "ibu": 60.0,
-    "target_fg": 1010.0,
-    "target_og": 1056.0,
-    "ebc": 17.0,
-    "srm": 8.5,
-    "ph": 4.4,
-    "attenuation_level": 82.14,
+    "id": 1024, 
+    "name": "SAP Labs Munich Beer - Edition 2022",
+    "tagline": "Combining German tradition with west-coast hops",
+    "first_brewed": "05/2022",
+    "description": "A traditional German lager beer which is then dry-hopped with US-hops (idaho gem, cashmere). A unique combination, created with the help of the SAP Labs Munich Brewer community, hopcode and Rhaner Braeu.",
+    "image_url": "https://todo.png",
+    "abv": 4.8,
     "volume": {
         "value": 20,
         "unit": "liters"
@@ -25,15 +18,43 @@
         "mash_temp": [
             {
                 "temp": {
-                    "value": 65,
+                    "value": 55,
                     "unit": "celsius"
                 },
-                "duration": 75
+                "duration": 0
+            },
+            {
+                "temp": {
+                    "value": 62,
+                    "unit": "celsius"
+                },
+                "duration": 25
+            },
+            {
+                "temp": {
+                    "value": 67,
+                    "unit": "celsius"
+                },
+                "duration": 15
+            },
+            {
+                "temp": {
+                    "value": 72,
+                    "unit": "celsius"
+                },
+                "duration": 20
+            },
+            {
+                "temp": {
+                    "value": 78,
+                    "unit": "celsius"
+                },
+                "duration": 0
             }
         ],
         "fermentation": {
             "temp": {
-                "value": 19.0,
+                "value": 9.0,
                 "unit": "celsius"
             }
         },
@@ -42,41 +63,45 @@
     "ingredients": {
         "malt": [
             {
-                "name": "Extra Pale",
+                "name": "Pilsener",
                 "amount": {
-                    "value": 5.3,
+                    "value": 4.0,
+                    "unit": "kilograms"
+                }
+            },
+            {
+                "name": "Sauermalz",
+                "amount": {
+                    "value": 0.160,
                     "unit": "kilograms"
                 }
             }
         ],
         "hops": [
             {
-                "name": "Ahtanum",
+                "name": "Hallertauer Perle 8%",
                 "amount": {
-                    "value": 17.5,
+                    "value": 14,
                     "unit": "grams"
                 },
                 "add": "start",
                 "attribute": "bitter"
             },
             {
-                "name": "Chinook",
+                "name": "Hallertauer Tradition 8%",
                 "amount": {
-                    "value": 15,
+                    "value": 5,
                     "unit": "grams"
                 },
-                "add": "start",
+                "add": "80",
                 "attribute": "bitter"
-            },
-           ...
+            }
         ],
-        "yeast": "Wyeast 1056 - American Ale™"
+        "yeast": "S-23"
     },
     "food_pairing": [
-        "Spicy carne asada with a pico de gallo sauce",
-        "Shredded chicken tacos with a mango chilli lime salsa",
-        "Cheesecake with a passion fruit swirl sauce"
+        "Traditional German food such as Weisswurst, Brezn, Obazda."
     ],
-    "brewers_tips": "While it may surprise you, this version of Punk IPA isn't dry hopped but still packs a punch! To make the best of the aroma hops make sure they are fully submerged and add them just before knock out for an intense hop hit.",
-    "contributed_by": "Sam Mason <samjbmason>"
+    "brewers_tips": "Dry-hop with 50g US Cashmeher and 30g Idaho Gem for 2-3 weeks after fermentation.",
+    "contributed_by": "Sven Haiges, Recipe by Max Ploessl"
 }

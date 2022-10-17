@@ -1,5 +1,9 @@
 # SAP Labs Munich Brewers
 
+## TODO
+- sap labs munich beer shot & upload Github
+
+
 <img align="left" width="250" height="250" src="res/logo.png">
 
 The SAP Labs Munich Brewers are passionate about beer. What makes us special is that we don't just drink it, we define and optimize it over time. Together with Our partners [Hopcode](https://www.hopcode.bayern/en/) and [Rhaner Braeu](https://www.rhaner.de/), we released our first very own beer recipe, the 2022 edition. 
