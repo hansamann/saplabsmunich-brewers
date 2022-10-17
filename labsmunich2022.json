@@ -1,7 +1,7 @@
 {
-    "id": 1024, 
+    "id": 2022, 
     "name": "SAP Labs Munich Beer - Edition 2022",
-    "tagline": "Combining German tradition with west-coast hops",
+    "tagline": "Combining German tradition with west-coast hops and culture",
     "first_brewed": "05/2022",
     "description": "A traditional German lager beer which is then dry-hopped with US-hops (idaho gem, cashmere). A unique combination, created with the help of the SAP Labs Munich Brewer community, hopcode and Rhaner Braeu.",
     "image_url": "https://todo.png",
@@ -95,13 +95,31 @@
                 },
                 "add": "80",
                 "attribute": "bitter"
+            },
+            {
+                "name": "Cashmere",
+                "amount": {
+                    "value": 50,
+                    "unit": "grams"
+                },
+                "add": "dry-hop",
+                "attribute": "aroma"
+            },
+            {
+                "name": "Idaho Gem",
+                "amount": {
+                    "value": 30,
+                    "unit": "grams"
+                },
+                "add": "dry-hop",
+                "attribute": "aroma"
             }
         ],
-        "yeast": "S-23"
+        "yeast": "Saflager S-23"
     },
     "food_pairing": [
         "Traditional German food such as Weisswurst, Brezn, Obazda."
     ],
-    "brewers_tips": "Dry-hop with 50g US Cashmeher and 30g Idaho Gem for 2-3 weeks after fermentation.",
+    "brewers_tips": "Dry-hop with 50g US Cashmere and 30g Idaho Gem for 2-3 weeks after fermentation.",
     "contributed_by": "Sven Haiges, Recipe by Max Ploessl"
 }
