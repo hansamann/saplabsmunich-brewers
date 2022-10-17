@@ -6,6 +6,11 @@
     "description": "A traditional German lager beer which is then dry-hopped with US-hops (idaho gem, cashmere). A unique combination, created with the help of the SAP Labs Munich Brewer community, hopcode and Rhaner Braeu.",
     "image_url": "https://todo.png",
     "abv": 4.8,
+    "ibu": 20.0,
+    "target_fg": 1011.0,
+    "target_og": 1048.0,
+    "ebc": 6,
+    "attenuation_level": 82.14,
     "volume": {
         "value": 20,
         "unit": "liters"
