@@ -58,7 +58,7 @@
                 "unit": "celsius"
             }
         },
-        "twist": null
+        "twist": ""
     },
     "ingredients": {
         "malt": [
@@ -121,5 +121,5 @@
         "Traditional German food such as Weisswurst, Brezn, Obazda."
     ],
     "brewers_tips": "Dry-hop with 50g US Cashmere and 30g Idaho Gem for 2-3 weeks after fermentation.",
-    "contributed_by": "Sven Haiges, Recipe by Max Ploessl"
+    "contributed_by": "added by Sven Haiges (SAP), recipe by Max Ploessl (Rhaner Braeu)"
 }
