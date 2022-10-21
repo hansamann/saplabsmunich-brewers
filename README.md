@@ -14,6 +14,4 @@ While the large quantities of beer for our parties and events are being brewed d
 
 ![SAP Labs Munich Brewers at the Beer Definition Workshop in Munich](res/social1.jpeg)
 
-
-
 The recipes are open source and we use the [Punk API](https://punkapi.com/documentation/v2) standard to describe the brewing process. For better readability, we also created a [PDF version](labsmunich2022.pdf) with all the details. If you brew the beer at home and make changes to the recipe, we would love to see the changed definition file. 
